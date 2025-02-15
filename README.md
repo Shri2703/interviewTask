@@ -1,6 +1,7 @@
 # Vehicle-rental Front-End
 
-![brave_screenshot_localhost](https://github.com/user-attachments/assets/00ebc607-e09b-41e7-b1a5-9526674f4c4d)
+![brave_screenshot_localhost](https://github.com/user-attachments/assets/364a60c4-480e-4504-bc7f-67abadcbeefc)
+
 ![Screenshot 2025-02-15 123225](https://github.com/user-attachments/assets/b0077256-862f-4cb3-8795-6d10a73baedb)
 ![Screenshot 2025-02-15 123258](https://github.com/user-attachments/assets/3ff8c0a2-8d58-49b8-8c27-04441e9b1ce0)
 
